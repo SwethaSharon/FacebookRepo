@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="168" started-at="2021-04-07T06:14:48Z" finished-at="2021-04-07T06:14:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="168" started-at="2021-04-07T06:14:48Z" finished-at="2021-04-07T06:14:48Z">
+      <class name="org.sample.Suite1">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.sample.Suite1@457e2f02]" name="tc1" duration-ms="26" started-at="2021-04-07T06:14:48Z" finished-at="2021-04-07T06:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.sample.Suite1@457e2f02]" name="tc2" duration-ms="3" started-at="2021-04-07T06:14:48Z" finished-at="2021-04-07T06:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.sample.Suite1@457e2f02]" name="tc3" duration-ms="1" started-at="2021-04-07T06:14:48Z" finished-at="2021-04-07T06:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- org.sample.Suite1 -->
+      <class name="org.sample.Suite3">
+        <test-method status="PASS" signature="tc111()[pri:0, instance:org.sample.Suite3@39aeed2f]" name="tc111" duration-ms="2" started-at="2021-04-07T06:14:48Z" finished-at="2021-04-07T06:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc111 -->
+        <test-method status="PASS" signature="tc222()[pri:0, instance:org.sample.Suite3@39aeed2f]" name="tc222" duration-ms="3" started-at="2021-04-07T06:14:48Z" finished-at="2021-04-07T06:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc222 -->
+        <test-method status="PASS" signature="tc333()[pri:0, instance:org.sample.Suite3@39aeed2f]" name="tc333" duration-ms="3" started-at="2021-04-07T06:14:48Z" finished-at="2021-04-07T06:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc333 -->
+      </class> <!-- org.sample.Suite3 -->
+      <class name="org.sample.Suite2">
+        <test-method status="PASS" signature="tc11()[pri:0, instance:org.sample.Suite2@5c7fa833]" name="tc11" duration-ms="2" started-at="2021-04-07T06:14:48Z" finished-at="2021-04-07T06:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc11 -->
+        <test-method status="PASS" signature="tc22()[pri:0, instance:org.sample.Suite2@5c7fa833]" name="tc22" duration-ms="1" started-at="2021-04-07T06:14:48Z" finished-at="2021-04-07T06:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc22 -->
+        <test-method status="PASS" signature="tc33()[pri:0, instance:org.sample.Suite2@5c7fa833]" name="tc33" duration-ms="1" started-at="2021-04-07T06:14:48Z" finished-at="2021-04-07T06:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc33 -->
+      </class> <!-- org.sample.Suite2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
